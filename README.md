@@ -42,7 +42,7 @@ If you want to contribute to this list (please do), please feel free to send me 
 
 * [oh](https://github.com/parallella/oh) - Silicon validated Open Verilog library for IC and FPGA designers.
 
-* [FPGA-Litecoin-Miner](https://github.com/kramble/FPGA-Litecoin-Miner) - litecoin script miner implemented with FPGA on-chip memory.
+* [FPGA-Litecoin-Miner](https://github.com/kramble/FPGA-Litecoin-Miner) - Litecoin script miner implemented with FPGA on-chip memory.
 
 * [verilog-ethernet](https://github.com/alexforencich/verilog-ethernet) - Collection of Ethernet-related components for both gigabit and 10G packet processing (8 bit and 64 bit datapaths).
 
@@ -58,7 +58,7 @@ If you want to contribute to this list (please do), please feel free to send me 
 
 * [nvc](https://github.com/nickg/nvc) - VHDL compiler and simulator.
 
-* [vunit](https://github.com/VUnit/vunit) - A unit testing framework for VHDL/SystemVerilog
+* [vunit](https://github.com/VUnit/vunit) - A unit testing framework for VHDL/SystemVerilog.
 
 <a name="vhdl-implementation" />
 ## VHDL-Implementation
