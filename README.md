@@ -33,7 +33,7 @@ If you want to contribute to this list (please do), please feel free to send me 
 * [Pyverilog-toolbox](https://github.com/fukatani/Pyverilog_toolbox) - Pyverilog-based verification/design tool including code clone finder, metrics calculator and so on.
 
 <a name="verilog-implementation" />
-## Verilog-Implementation
+## Hardware-Implementation-by-Verilog
 * [miaow](https://github.com/VerticalResearchGroup/miaow) - An open source GPU based off of the AMD Southern Islands ISA.
 
 * [amiga2000-gfxcard](https://github.com/mntmn/amiga2000-gfxcard) - MNT VA2000, an Amiga 2000 Graphics Card (Zorro II), written in Verilog.
@@ -61,7 +61,7 @@ If you want to contribute to this list (please do), please feel free to send me 
 * [vunit](https://github.com/VUnit/vunit) - A unit testing framework for VHDL/SystemVerilog.
 
 <a name="vhdl-implementation" />
-## VHDL-Implementation
+## Hardware-Implementation-by-VHDL
 * [Open-Source-FPGA-Bitcoin-Miner](https://github.com/progranism/Open-Source-FPGA-Bitcoin-Miner) - A completely open source implementation of a Bitcoin Miner for Altera and Xilinx FPGAs.
 
 * [space-invaders-vhdl](https://github.com/fabioperez/space-invaders-vhdl) - Space Invaders game implemented with VHDL.
